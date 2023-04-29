@@ -1,0 +1,1 @@
+/Users/zhorton/workspace/orion/tauri/src-tauri/src/Illuminate/Config/target/debug/libconfig.rlib: /Users/zhorton/workspace/orion/tauri/src-tauri/src/Illuminate/Config/src/config.rs /Users/zhorton/workspace/orion/tauri/src-tauri/src/Illuminate/Config/src/lib.rs
