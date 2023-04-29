@@ -5,13 +5,13 @@ This crate provides a Repository struct that implements the ConfigContract trait
 
 ```toml
 [dependencies]
-repository-config = "0.1.0"
+repository = "0.1.0"
 ```
 
 ## Example
 ```rust
 use std::collections::HashMap;
-use repository_config::{ConfigContract, Repository};
+use repository::config::{ConfigContract, Repository};
 
 fn main() {
     let mut items = HashMap::new();
